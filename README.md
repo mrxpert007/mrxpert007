@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mrxpert007
+- 👀 I’m interested in Solana & BSC Project
+- 🌱 I’m currently learning Smartcontract
